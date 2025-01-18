@@ -1,0 +1,32 @@
+{
+  "addToCart" :
+  {
+    "productName" : "Sauce Labs Onesie"
+  },
+
+  "verifyProduct" :
+  {
+    "productName" : "Sauce Labs Onesie"
+  },
+  "checkoutProduct" :
+  {
+    "firstName" : "Puneet",
+    "lastName" : "Dhall",
+    "postalCode" : "400001"
+  },
+  "orderSuccessTest" :
+  {
+    "message" : "Thank you for your order!"
+  },
+  "login" :
+  {
+    "username" : "standard_user",
+    "password" : "secret_sauce"
+  },
+
+  "loginErrorValidation" :
+  {
+    "username" : "UserPuneet",
+    "password" : "passPuneet"
+  }
+}
